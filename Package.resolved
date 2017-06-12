@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Spectre",
+        "repositoryURL": "git@github.com:CalQL8ed-K-OS/Spectre.git",
+        "state": {
+          "branch": null,
+          "revision": "413b75e543c89c44a03aa5be316fc1109474b6f8",
+          "version": "0.8.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
